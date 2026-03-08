@@ -1,0 +1,22 @@
+# PyInstaller / Build artifacts
+build/
+dist/
+*.spec
+*.pkg
+*.toc
+*.zip
+*.pyz
+*.html
+*.pycc4.pycl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (optional, if you don't want to upload large CSVs)
+*.csv
+*.fstrm
+*.raw
+
+# VS Code
+.vscode/
